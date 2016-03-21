@@ -7,11 +7,11 @@
 	cursor:pointer;
 }
 .field-cross{
-	background-image: url("крестик.png");
+	background-image: url("cross.png");
 	cursor:default;
 }
 .field-nought{
-	background-image: url("ноль.png");
+	background-image: url("zero.png");
 	cursor:default;
 }
 .end {
