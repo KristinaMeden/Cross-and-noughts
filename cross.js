@@ -43,7 +43,7 @@ $( function (){
 			if(sum-1>=winLength){
 				alert("Выиграли " +(checkSight? 'x':'o'));
 				$('.field').off('click');
-				$('#map').addClass('end');
+				//$('#map').addClass('end');
 			}
 		}
 
